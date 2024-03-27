@@ -1,6 +1,6 @@
 # Dev-Driver_LED-Driver-App
 ## Description
-    Simple led driver build-in on BeagleBone Black, using an application to control on, off, blink led
+    Simple led driver build-in on BeagleBone Black, using an application to control on, off, blink led and read led's state
 ## Connection   
     Led -> GPIO27 (GPIO0_27) or P8_17
 ## Using 
